@@ -1,0 +1,40 @@
+.profile{
+    width: 250px;
+    height: 500px;
+    margin: auto;
+}
+
+.profile p{
+    text-align: center;
+}
+
+.profile img{
+    width: 250px;
+    height: 250px;
+    margin-top: 5px;
+}
+
+.profile input{
+    display: block;
+    height: 30px;
+    width: 250px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.profile button{
+    height: 35px;
+    width: 256px;
+    border: none;
+    background-color: #e7f3ff;
+}
+
+.profile button:hover{
+background-color: #75a1de;
+cursor: pointer;
+}
+
+.profile_name{
+    font-size: 35px;
+    margin-top: 50px;
+}

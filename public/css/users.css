@@ -1,0 +1,63 @@
+.users-div1{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.user{
+      width: 60%;
+      height: 70px;
+      margin-bottom: 10px;
+      background-color: #e7f3ff;
+}
+
+.user:hover{
+    background-color: #75a1de;
+}
+
+.user_image{
+    float: left;
+    width: 15%;
+    height: 100%;
+}
+
+.user_image img{
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.user_name{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+.user_name p{
+    margin-top: 25px;
+}
+
+.user_email{
+    float: left;
+    width: 35%;
+    height: 100%;
+}
+
+.user_email p{
+    margin-top: 25px;
+}
+
+.user_button_delete{
+    width: 15%;
+    height: 30px;
+    border: none;
+    background-color: rgb(255, 161, 161);
+    margin-top: 20px;
+}
+
+.user_button_delete:hover{
+    background-color: rgb(255, 89, 89);
+    cursor: pointer;
+}

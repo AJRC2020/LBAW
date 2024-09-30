@@ -1,0 +1,1 @@
+<p class="member">{{ $user->name }}</p>

@@ -1,0 +1,160 @@
+.forum{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.forum-div{
+    width: 1300px;
+    height: 550px;
+    background-color: #e7f3ff;
+    margin: auto;
+}
+
+.forum-div-leftleft{
+    width: 20%;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+
+.forum-div-leftleft button{
+    border: none;
+    background-color: #e7f3ff;
+    margin-bottom: 10px;
+    float: right;
+    width: 240px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.forum-div-leftleft button:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+}
+
+.forum-div-left{
+    width: 20%;
+    height: 100%;
+    background-color: #75a1de;
+    float: left;
+}
+
+.member-title{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.member{
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.forum-div-right{
+    float: left;
+    width: 60%;
+    height: 100%;
+}
+
+.forum-div-right-all_msg{
+    height: 90%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.forum-div-right-msg{
+    height: 8%;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.forum-div-right-all_msg-message{
+    margin-left: 50px;
+    display: inline-block;
+    min-width: 200px;
+    margin-top: 10px;
+}
+
+.message-container{
+    width: 100%;
+    min-height: 110px;
+}
+
+.forum-div-right-all_msg-you{
+    margin-left: 50px;
+    margin-right: 50px;
+    float: right;
+}
+
+.name{
+    font-weight: 900;
+    margin-bottom: 4px;
+    height: 30px;
+}
+
+.forum-div-right-all_msg-message-m{
+    max-width: 700px;
+    background-color: white;
+    margin-top: 0px;
+}
+
+.forum-div-right-all_msg-message-y{
+    max-width: 700px;
+    background-color: #75a1de;
+    display: inline-block;
+}
+
+.forum-div-right-all_msg-message-y p{
+    margin: 10px;
+    display: inline-block;
+}
+
+.forum-div-right-all_msg-message-m p{
+    margin: 10px;
+    display: inline-block;
+}
+
+.forum-div-right-msg input{
+    height: 30px;
+    width: 540px;
+    text-decoration: none;
+    border: none;
+    margin-left: 50px;
+    font-size: 14px;
+    float: left;
+    font-weight: 200;
+    padding-left: 10px;
+}
+
+.forum-div-right-msg input:focus{
+    outline: none;
+}
+
+.forum-div-right-msg button{
+    height: 32px;
+    width: 120px;
+    border: none;
+    display: block;
+    float: right;
+    margin-right: 50px;
+    background-color: rgb(178, 255, 178);
+}
+
+.forum-div-right-msg button:hover{
+    cursor: pointer;
+    background-color: rgb(106, 255, 106);
+}
+
+.forum_image{
+    float: left;
+    height: 60px;
+}
+
+.forum_image img{
+    height: 45px;
+    width: 45px;
+    border-radius: 40px;
+    margin-right: 10px;
+    margin-top: 2px;
+}

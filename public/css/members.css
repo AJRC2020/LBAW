@@ -1,0 +1,84 @@
+.members{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.user{
+    width: 60%;
+    height: 70px;
+    margin-bottom: 10px;
+    background-color: #e7f3ff;
+}
+
+.user:hover{
+  background-color: #75a1de;
+}
+
+.user_image{
+  float: left;
+  width: 15%;
+  height: 100%;
+}
+
+.user_image img{
+  height: 60px;
+  width: 60px;
+  border-radius: 40px;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.user_name{
+  float: left;
+  width: 25%;
+  height: 100%;
+}
+
+.user_name p{
+  margin-top: 25px;
+}
+
+.user_email{
+  float: left;
+  width: 35%;
+  height: 100%;
+}
+
+.user_email p{
+  margin-top: 25px;
+}
+
+.user_button_delete{
+  width: 15%;
+  height: 40px;
+  border: none;
+  background-color: #e7f3ff;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.user_button_delete:hover{
+  background-color: #75a1de;
+  cursor: pointer;
+}
+
+.members a{
+    text-decoration: none;
+}
+
+.members-button1{
+  width: 160px;
+  height: 35px;
+  margin-top: 17px;
+  margin-left: -10px;
+  border: none;
+  background-color: white;
+  border-radius: 7px;
+  display: inline;
+}
+
+.members-button1:hover{
+  cursor: pointer;
+  background-color: rgb(255, 223, 162);
+}

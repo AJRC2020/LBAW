@@ -1,0 +1,225 @@
+.tasks{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.tasks-div{
+    width: 1300px;
+    height: 550px;
+    margin: auto;
+}
+
+.tasks-div-left{
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.tasks-div-right{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.tasks-div-right button{
+    border: none;
+    background-color: #e7f3ff;
+    margin-bottom: 10px;
+    float: right;
+    width: 240px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.tasks-div-right button:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+}
+
+.complete-title{
+    background-color: rgb(132, 255, 132);
+    width: 230px;
+    height: 25px;
+    margin-top: 0px;
+    font-weight: 900;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.uncomplete-title{
+    background-color: rgb(255, 82, 82);
+    width: 230px;
+    height: 25px;
+    margin-top: 50px;
+    font-weight: 900;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.task-container-done{
+    width: 95%;
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgb(212, 255, 212);
+    margin-top: 5px;
+}
+
+.task-container-done:hover{
+    background-color: rgb(175, 255, 175);
+}
+
+.task-container-undone{
+    width: 95%;
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgb(255, 194, 194);
+    margin-top: 5px;
+}
+
+.task-container-undone form {
+    display: inline;
+}
+
+.task-container-undone:hover{
+    background-color: rgb(255, 166, 166);
+}
+
+.task-container-undone2{
+    width: 95%;
+    height: 40px;
+    border-radius: 7px;
+    margin-top: 5px;
+}
+
+.task-titlulo{
+    display: inline-block;
+    width: 400px;
+    max-width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.task-responsavel{
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-pessoaafazer{
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-date{
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-edit{
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-finish{
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-titlulo2{
+    display: inline-block;
+    width: 400px;
+    max-width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.task-responsavel2{
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-pessoaafazer2{
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-date2{
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.task-buttonEdit2{
+    width: 80px;
+    height: 25px;
+    margin-left: 27px;
+    border: none;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.task-buttonEdit2:hover{
+    cursor: pointer;
+    background-color: rgb(255, 223, 162);
+}
+
+.task-buttonFinish2{
+    width: 80px;
+    height: 25px;
+    margin-left: 27px;
+    border: none;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.task-buttonFinish2:hover{
+    cursor: pointer;
+    background-color: rgb(255, 223, 162);
+}
+
+.createTask_button{
+    border: none;
+    background-color: #e7f3ff;
+    margin-bottom: 10px;
+    width: 240px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.createTask_button:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+}

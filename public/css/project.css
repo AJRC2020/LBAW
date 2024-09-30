@@ -1,0 +1,222 @@
+.project-div1{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+  }
+
+  .project-div1 form {
+    display: inline;
+  }
+
+  .project-div1-title{
+    font-size: 34px;
+  }
+  
+  .project-div1 a{
+    text-decoration: none;
+  }
+  
+  .project-div1-button1{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid #e7f3ff;
+    background-color: #e7f3ff;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+  }
+  
+  .project-div1-button1:hover{
+    background-color: #75a1de;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .project-div1-button2{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid rgb(255, 161, 161);
+    background-color: rgb(255, 161, 161);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  
+  .project-div1-button2:hover{
+    background-color: rgb(255, 89, 89);
+    cursor: pointer;
+    border: none;
+  }
+
+  .project-div1-button4{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid rgb(255, 211, 130);
+    background-color: rgb(255, 211, 130);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  
+  .project-div1-button4:hover{
+    background-color: orange;
+    cursor: pointer;
+    border: none;
+  }
+
+  .project-div1-button5{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid rgb(178, 255, 178);
+    background-color: rgb(178, 255, 178);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  
+  .project-div1-button5:hover{
+    background-color: rgb(106, 255, 106);
+    cursor: pointer;
+    border: none;
+  }
+  
+  .project-div1-date{
+    font-size: 20px;
+  }
+  
+  .project-div1-details{
+    font-size: 20px;
+  }
+  
+  .project-div1-details-title{
+    font-size: 23px;
+    font-weight: 900;
+  }
+  
+  .project-div1-subject-title{
+    font-size: 23px;
+    font-weight: 900;
+  }
+  
+  .project-div1-subject{
+    font-size: 20px;
+  }
+  
+  .project-div1-button3{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    font-size: 17px;
+    background-color: #e7f3ff;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+  }
+  
+  .project-div1-button3:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+  }
+
+  .project-div1-button9{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    font-size: 17px;
+    background-color: #e7f3ff;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-left: 9px;
+  }
+  
+  .project-div1-button9:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+  }
+
+  .project-div1-imagediv{
+    float: left;
+    height: 300px;
+    width: 220px;
+  }
+
+  .project-div1-imagediv img{
+    height: 300px;
+    width: 220px;
+  }
+
+  .project-div1-infodiv{
+    float: left;
+    height: 300px;
+    width: 1020px;
+    margin-left: 20px;
+  }
+
+  .project-div1-buttonsdiv{
+    height: 100px;
+    width: 100%;
+  }
+
+  .project-div1-button6{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid rgb(249, 255, 138);
+    background-color: rgb(249, 255, 138);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  
+  .project-div1-button6:hover{
+    background-color: rgb(243, 255, 9);
+    cursor: pointer;
+    border: none;
+  }
+
+  .project-div1-button7{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 17px;
+    border: 2px solid rgb(240, 162, 255);
+    background-color: rgb(240, 162, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 35px;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  
+  .project-div1-button7:hover{
+    background-color: rgb(226, 80, 255);
+    cursor: pointer;
+    border: none;
+  }

@@ -1,0 +1,38 @@
+.notifications{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.notifications button {
+    background-color: white;
+    border: none;
+}
+
+.notification_div{
+    width: 550px;
+    height: 70px;
+    background-color: #e7f3ff;
+    margin-bottom: 20px;
+}
+
+.notification-div1-divtext{
+    width: 650px;
+    height: 500px;
+    float: left;
+  }
+
+.notification_div:hover{
+    background-color: #75a1de;
+}
+
+.notificaton_message{
+    font-size:18px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.notificaton_message2{
+    font-size: 15px;
+    text-align: center;
+}

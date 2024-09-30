@@ -1,0 +1,64 @@
+
+.updateproject-button{
+    margin-left: 11px;
+    width: 180px;
+    height: 40px;
+    margin-top: 30px;
+    font-size: 17px;
+    background-color: #e7f3ff;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+  }
+  
+  .updateproject-button:hover{
+    cursor: pointer;
+    background-color: #75a1de;
+  }
+  
+  .updateproject-button2{
+    margin-left: 11px;
+    width: 180px;
+    height: 40px;
+    margin-top: 30px;
+    font-size: 17px;
+    background-color: rgb(255, 104, 104);
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+  }
+  
+  .updateproject-button2:hover{
+    cursor: pointer;
+    background-color: rgb(255, 29, 29);
+  }
+  
+  .updateproject-div5{
+    height: 320px;
+    width: 400px;
+    margin: auto;
+    border: 2px solid #e7f3ff;
+  }
+  
+  .updateproject-div5 input{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 200;
+  }
+  
+  .updateproject-div1-usernamepassword{
+    margin-left: 47px;
+    font-size: 17px;
+  }
+  
+  .updateproject-div1-title{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 55px;
+  }

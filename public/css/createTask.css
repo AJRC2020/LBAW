@@ -1,0 +1,26 @@
+.createTask-div1{
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    border: 2px solid #e7f3ff;
+  }
+
+.createTask-div1 input{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 200;
+  }
+
+.createTask-div1 select{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 200;
+  }

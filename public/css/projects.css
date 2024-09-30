@@ -1,0 +1,93 @@
+.projects-div1{
+  height: 550px;
+  width: 1300px;
+  margin: auto;
+}
+
+.project-div1 form{
+  display: inline;
+}
+
+.projects-div1-title{
+  font-size: 27px;
+  font-weight: 900;
+  margin-top: 30px;
+}
+
+.projects-div1-project{
+  height: 150px;
+  width: 900px;
+  background-color: #e7f3ff;
+  display: inline-block;
+  margin-bottom: 25px;
+}
+
+.projects-div1-project img{
+  height: 130px;
+  width: 110px;
+  margin-top: 9px;
+  margin-left: 9px;
+}
+
+.projects-div1-project:hover{
+  cursor: pointer;
+  background-color: #75a1de;
+}
+
+.projects-div1-project-div1{
+  height: 100%;
+  width: 140px;
+  float: left;
+}
+
+.projects-div1-project-div2{
+  height: 100%;
+  width: 760px;
+  float: left;
+}
+
+.projects-div1-project-div2-projectName{
+  font-size: 25px;
+  margin-top: 9px;
+}
+
+.projects-div1-project-div2-projectManager{
+
+}
+
+.projects-div1 a{
+  text-decoration: none;
+  color: black;
+}
+
+.projects-div1-button{
+  display: block;
+  width: 200px;
+  height: 40px;
+  margin-top: 50px;
+  font-size: 17px;
+  background-color: #e7f3ff;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  margin-bottom: 35px;
+  margin-top: 0;
+  border: none;
+}
+
+.projects-div1 button:hover{
+  background-color: #75a1de;
+  cursor: pointer;
+  border: none;
+}
+
+.projects-button1{
+  width: 160px;
+  height: 35px;
+  margin-top: 0px;
+  margin-left: 400px;
+  border: none;
+  background-color: white;
+  border-radius: 7px;
+  display: inline;
+}

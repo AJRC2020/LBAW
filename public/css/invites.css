@@ -1,0 +1,57 @@
+.invites{
+    height: 550px;
+    width: 1300px;
+    margin: auto;
+}
+
+.invites form{
+    display: inline;
+}
+
+.invite-div{
+    width: 600px;
+    height: 157px;
+    background-color: #e7f3ff;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-radius: 9px;
+}
+
+.invite-div-tile{
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.invite-div-inviter{
+    font-size: 17px;
+    text-align: center;
+}
+
+.invite-acceptbutton{
+    width: 120px;
+    height: 30px;
+    margin-left: 165px;
+    background-color: rgb(159, 255, 159);
+    border: none;
+}
+
+.invite-acceptbutton:hover{
+    cursor: pointer;
+    background-color: rgb(93, 255, 93);
+}
+
+.invite-refusebutton{
+    width: 120px;
+    height: 30px;
+    margin-left: 40px;
+    background-color: rgb(255, 149, 149);
+    border: none;
+}
+
+.invite-refusebutton:hover{
+    cursor: pointer;
+    background-color: rgb(255, 81, 81);
+}
+
